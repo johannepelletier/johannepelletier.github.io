@@ -29,7 +29,7 @@ github_username:  johannepelletier
 
 # Build settings
 # theme: minima
-theme: jekyll-theme-yat
+remote_theme: "jeffreytse/jekyll-theme-yat"
 
 name: Jekyll Deploy Action
 uses: jeffreytse/jekyll-deploy-action@v0.6.0
