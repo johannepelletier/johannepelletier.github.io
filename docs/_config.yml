@@ -28,11 +28,11 @@ url: https://johannepelletier.github.io/ # the base hostname & protocol for your
 github_username:  johannepelletier
 
 # Build settings
-# theme: minima
-remote_theme: "jeffreytse/jekyll-theme-yat"
+theme: minima
+# remote_theme: "jeffreytse/jekyll-theme-yat"
 
-name: Jekyll Deploy Action
-uses: jeffreytse/jekyll-deploy-action@v0.6.0
+# name: Jekyll Deploy Action
+# uses: jeffreytse/jekyll-deploy-action@v0.6.0
             
 plugins:
   - jekyll-feed
