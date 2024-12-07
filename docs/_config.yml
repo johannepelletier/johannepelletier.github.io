@@ -29,7 +29,7 @@ github_username:  johannepelletier
 
 # Build settings
 # theme: minima
-remote_theme: "jeffreytse/jekyll-theme-yat"
+theme: jekyll-theme-yat
 plugins:
   - jekyll-feed
 
