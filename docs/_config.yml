@@ -18,12 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Forests, Climate Change, and Livelihoods
+title: Land Use and Climate Change Innovations
 # email: johannepelletier@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Welcome to my personal website! My work focuses on evaluating of the direct and indirect effects of human activities on forested and agricultural ecosystems, with the goal of mitigating climate change, supporting conservation and adaptation, and improving the livelihoods of forest-dependent people and smallholder farmers.
 domain: johannepelletier/github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://johannepelletier.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
