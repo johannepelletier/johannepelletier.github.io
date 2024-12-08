@@ -1,5 +1,8 @@
-Publications
-================
+---
+layout: page
+title: Publications
+permalink: /publications/
+---
 
 ![](/images/Children_fog_Panama.png)
 
