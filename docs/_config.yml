@@ -18,22 +18,22 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Land Use and Climate Change Innovations
-# email: your-email@example.com
-description:  Welcome to my personal website! My work focuses on evaluating of the direct and indirect effects of human activities on forested and agricultural ecosystems, with the goal of mitigating climate change, supporting conservation and adaptation, and improving the livelihoods of forest-dependent people and smallholder farmers.
-domain: johannepelletier.github.io
-baseurl: /johannepelletier.github.io/ # the subpath of your site, e.g. /blog
+title: Forests, Climate Change, and Livelihoods
+# email: johannepelletier@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+domain: johannepelletier/github.io
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://johannepelletier.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  johannepelletier
 
 # Build settings
 theme: minima
+# theme: owner/name --> Don't forget to remove/comment the gem-based theme option
 # remote_theme: "jeffreytse/jekyll-theme-yat"
-
-# name: Jekyll Deploy Action
-# uses: jeffreytse/jekyll-deploy-action@v0.6.0
-            
 plugins:
   - jekyll-feed
 
