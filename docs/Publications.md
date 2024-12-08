@@ -1,5 +1,7 @@
+Publications
+================
 
-![](D:/SPIA%20Dropbox/Johanne%20Pelletier/Other_docs/WebsiteContent/websiteContent/data/Children_fog_Panama.png)
+![](/images/Children_fog_Panama.png)
 
 ### Peer-reviewed publications:
 
@@ -164,4 +166,4 @@ Voudouhe, F. Actes de l’Atelier international sur la foresterie
 communautaire dans le contexte de la REDD+. Conference proceedings,
 Institut EDS, Québec, Canada.
 
-![](D:/SPIA%20Dropbox/Johanne%20Pelletier/Other_docs/WebsiteContent/websiteContent/data/FortunaDam.png)
+![](/images/FortunaDam.png)
