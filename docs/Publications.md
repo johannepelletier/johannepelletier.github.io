@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-![](/images/Children_fog_Panama.png)
+![](/images/Children_fog_Panama2.png)
 
 ### Peer-reviewed publications:
 
@@ -169,4 +169,4 @@ Voudouhe, F. Actes de l’Atelier international sur la foresterie
 communautaire dans le contexte de la REDD+. Conference proceedings,
 Institut EDS, Québec, Canada.
 
-![](/images/FortunaDam.png)
+![](/images/FortunaDam2.png)
